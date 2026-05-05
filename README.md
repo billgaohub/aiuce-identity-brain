@@ -1,26 +1,18 @@
 # Identity Brain
 
-A brain-first, entity-centric personal knowledge management library.
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Paradigm](https://img.shields.io/badge/Paradigm-Brain--first%20PKM-purple.svg)]()
 
-## Overview
+**A brain-first, entity-centric personal knowledge management library.**
 
-`aiuce-identity-brain` is a persistent personal knowledge base built on a Markdown file tree. It follows the **brain-first** protocol:
-
-1. **Consult before responding** — `brain.consult(query)` loads relevant context.
-2. **Update after every conversation** — `brain.update(text)` writes verbatim (no summarisation).
-3. **Dream nightly** — `brain.dream()` runs the integration cycle.
-
-Each piece of knowledge lives as a single Markdown file organised under one of 11 MECE (Mutually Exclusive, Collectively Exhaustive) wings.
+Persistent personal knowledge base built on a Markdown file tree. Follows the **brain-first** protocol: consult before responding, update after every conversation, dream nightly.
 
 ## Installation
 
 ```bash
 pip install .
-```
-
-Or in development mode:
-
-```bash
+# or development mode
 pip install -e .
 ```
 
