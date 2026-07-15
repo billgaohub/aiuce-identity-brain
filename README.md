@@ -1,6 +1,9 @@
 > ⚠️ **Deprecated — legacy AIUCE family.** This repo is being consolidated into **SONUV** / **AIOBR** / a unified history archive (2026). No new work is accepted. Current status: **[aiuce.com](https://aiuce.com)**. _Marked 2026-07-15._
 >
 > _本仓库属旧 AIUCE 体系，正整合进 SONUV / AIOBR / 统一历史归档，不再接受新改动；最新状态见 aiuce.com。_
+> **Disposition**: **Merge → unified history archive**
+> **处置**：源码将并入统一历史归档（历史总仓）；本仓为只读遗留，不再恢复功能开发。
+
 
 # Identity Brain
 
